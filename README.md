@@ -1,6 +1,6 @@
 # Hello, pals! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
 
-## My name is Danis Sharafiev and I'm a ML developer. I'm from Russia  
+## My name is Danis Sharafiev, a Machine Learning Developer from Russia, currently studying at Innopolis University.
 
 ### Languages  
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C) ![C#](https://img.shields.io/badge/-C%23-000000?logo=dotnet) ![Java](https://img.shields.io/badge/Java-000?logo=openjdk&logoColor=white)) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -19,3 +19,4 @@
 
 ### Miscellaneous  
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI) ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit) ![Pybind11](https://img.shields.io/badge/-Pybind11-000?&logo=Python)
+
