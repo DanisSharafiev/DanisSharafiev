@@ -15,7 +15,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib) ![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Python)
 
 ### Machine Learning  
-![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-000?&logo=scikit-learn) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 
 ### Miscellaneous  
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI) ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit) ![Pybind11](https://img.shields.io/badge/-Pybind11-000?&logo=Python)
