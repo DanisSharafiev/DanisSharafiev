@@ -3,7 +3,7 @@
 ## My name is Danis Sharafiev, a Machine Learning Developer from Russia, currently studying at Innopolis University.
 
 ### Languages  
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C) ![C#](https://img.shields.io/badge/-C%23-000000?logo=dotnet) ![Java](https://img.shields.io/badge/Java-000?logo=openjdk&logoColor=white)) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C) ![C#](https://img.shields.io/badge/-C%23-000000?logo=dotnet) ![Java](https://img.shields.io/badge/Java-000?logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Databases  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
